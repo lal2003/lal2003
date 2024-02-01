@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lal2003
+- 👋 Hi, I’m LAL ARAVIND S
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Artificial Intelligence And Data Science
 - 💞️ I’m looking to collaborate on ...
